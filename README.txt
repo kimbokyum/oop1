@@ -1,10 +1,4 @@
 online ide
 msvs 2019online ide
-msvs 2019online ide
-msvs 2019online ide
-msvs 2019online ide
-msvs 2019online ide
-msvs 2019online ide
-msvs 2019online ide
-msvs 2019online ide
-msvs 2019
+
+ubuntu(wsl2)
